@@ -111,4 +111,3 @@ The key to unlocking this treasure trove requires:
 - Transformers
 - Seq2Seq
 - Rouge
-- etc (don't forget to list other essential packages)
